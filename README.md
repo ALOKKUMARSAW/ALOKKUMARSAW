@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokkumarsaw&label=Profile%20views&color=0e75b6&style=flat" alt="alokkumarsaw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokkumarsaw" alt="alokkumarsaw" /></a> </p>
-
 # 🚀 About Me
 
 🔭 **Building Full Stack Applications, AI Interview Platforms, and Secure Backend Systems**
