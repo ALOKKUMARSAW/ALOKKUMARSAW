@@ -213,13 +213,17 @@ https://github.com/ALOKKUMARSAW
 
 ✅ Applied OOPs, DSA, MVC Architecture & Software Engineering Concepts
 
-# 🏆 Achievements & Certifications
+# 🏆 Certifications & Achievements
 
-🏅 **NPTEL IIT Kharagpur — Data Structures & Algorithms Using Java (Elite + Silver)**
+🏅 **Java Spring Framework, Spring Boot & Spring AI (Gen AI)** — Udemy
 
-🏅 **Placed 1st in Quiz-A-Thon 5.0 at our College — Udaan Coding Club**
+🏅 **Java with DSA & System Design** — Physics Wallah
 
-🏅 **Java Developer Intern at HulkHire Technology**
+🏅 **Data Structures and Algorithms Using Java (Elite + Silver)** — NPTEL, IIT Kharagpur
+
+🏅 **Placed 1st in Quiz-A-Thon 5.0 at our College** — Udaan Coding Club
+
+🏅 **Java Developer Intern** — HulkHire Technology
 
 🏅 **Built Multiple Full Stack Projects using Spring Boot & React.js**
 
@@ -231,7 +235,7 @@ https://github.com/ALOKKUMARSAW
 
 🏅 **Experience with Postman API Testing & Backend Development**
 
-🏅 **Built Real-Time Applications including AI Interview Platform & E-Commerce Systems**
+🏅 **Built Real-Time Applications including AI Interview Platform, Job Portal & E-Commerce Systems**
 
 
 
