@@ -6,13 +6,234 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokkumarsaw" alt="alokkumarsaw" /></a> </p>
 
-- 🔭 I’m currently working on **PayPal Integration Project**
+# 🚀 About Me
 
-- 🌱 I’m currently learning **Spring Boot Framework and Microservices**
+🔭 **Building Full Stack Applications, AI Interview Platforms, and Secure Backend Systems**
 
-- 💬 Ask me about **Java, SpringBoot, Hibernate**
+🌱 **Exploring Generative AI, Spring AI, Microservices, System Design & Cloud Technologies**
 
-- 📫 How to reach me **aloksaw512@gmail.com**
+👯 **Looking to collaborate on AI-Based Applications, Open Source Projects & Backend Development**
+
+💬 **Ask me about**
+**Java**, **Spring Boot**, **REST APIs**, **Hibernate**, **MySQL**, **Postman**, **JWT Authentication**, **AI Integration** & **Prompt Engineering**
+
+⚡ **Passionate about solving real-world problems using AI, Backend Development & Full Stack Technologies**
+
+🚀 **Experienced in building**
+
+* AI Interview Platforms
+* Job Portal & Management Systems
+* E-Commerce Applications
+* Doctor Appointment Systems
+* Payment Integration Systems
+
+🛠️ **Hands-on experience with**
+
+* Generative AI Integration
+* REST API Development
+* Postman API Testing
+* JWT Security
+* Spring Security
+* Database Design
+* Full Stack Development
+
+🏆 **Strong understanding of**
+
+* Java
+* OOPs Concepts
+* DSA
+* SQL
+* API Development
+* Authentication & Authorization
+
+📫 **Reach me at:**
+**[aloksaw512@gmail.com](mailto:aloksaw512@gmail.com)**
+
+
+# 🚀 Featured Projects
+
+## 💼 Job Portal & Management System
+
+### Tech Stack:
+
+Java, Spring Boot, Spring Security, MySQL, React
+
+### Features:
+
+✅ Role-Based Authentication (Admin, Recruiter, Job Seeker)
+
+✅ Job Posting & Application Management System
+
+✅ Email Integration for Job Notifications & Application Updates
+
+✅ Secure Login using JWT Authentication
+
+✅ Recruiter Dashboard for Hiring Management
+
+### Key Highlights:
+
+* Automated recruitment workflow
+* Reduced manual hiring process
+* Centralized platform for recruiters and job seekers
+
+🔗 Repo:
+https://github.com/ALOKKUMARSAW/job-portal-and-management-system
+
+---
+
+## 🏥 Doctor Appointment System
+
+### Tech Stack:
+
+Java, Spring Boot, React, MySQL, JWT
+
+### Features:
+
+✅ Admin, Doctor & Patient Role Management
+
+✅ Appointment Booking & Scheduling
+
+✅ JWT Authentication & Authorization
+
+✅ RESTful APIs with Spring Boot
+
+✅ Real-Time Appointment Updates
+
+### Key Highlights:
+
+* Built 20+ REST APIs
+* Secure role-based access control
+* Improved appointment management workflow
+
+🔗 Repo:
+https://github.com/ALOKKUMARSAW/DoctorAppoinmentSystem
+
+---
+
+## 🎬 Movie Watchlist Application
+
+### Tech Stack:
+
+Spring Boot, Thymeleaf, OMDB API, H2 Database
+
+### Features:
+
+✅ Movie Search using OMDB API
+
+✅ Watchlist Management
+
+✅ CRUD Operations
+
+✅ Dynamic UI using Thymeleaf
+
+✅ Responsive Design
+
+### Key Highlights:
+
+* API Integration Project
+* Dynamic Content Rendering
+* Backend + Frontend Integration
+
+🔗 Repo:
+https://github.com/ALOKKUMARSAW/MovieWatchList-App
+
+---
+
+## 🤖 AI Interview Platform
+
+### Tech Stack:
+
+Spring Boot, React.js, OpenAI/Gemini API
+
+### Features:
+
+✅ AI-Based Mock Interviews
+
+✅ Real-Time Question Generation
+
+✅ Voice & Text Interaction
+
+✅ AI Feedback System
+
+✅ Performance Evaluation Dashboard
+
+### Key Highlights:
+
+* AI Integration with Full Stack Development
+* Real-Time API Communication
+* Interactive Interview Experience
+
+🔗 Repo:
+https://github.com/ALOKKUMARSAW
+
+---
+
+## 🛒 Click Basket E-Commerce System
+
+### Tech Stack:
+
+Java, Spring Boot, React.js, MySQL, JWT
+
+### Features:
+
+✅ Product Management System
+
+✅ Shopping Cart Functionality
+
+✅ Secure User Authentication
+
+✅ Order Management Module
+
+✅ Admin Dashboard
+
+### Key Highlights:
+
+* Full Stack E-Commerce Application
+* REST API-Based Architecture
+* Scalable Backend Design
+
+🔗 Repo:
+https://github.com/ALOKKUMARSAW
+
+---
+
+# ⭐ Why These Projects Stand Out
+
+✅ Developed using Industry-Level Technologies
+
+✅ Implemented Secure Authentication & Authorization
+
+✅ Built REST APIs following Backend Best Practices
+
+✅ Experience with Full Stack Development
+
+✅ Hands-On Experience with Real-Time Projects
+
+✅ Strong Understanding of Database Design & System Architecture
+
+✅ Applied OOPs, DSA, MVC Architecture & Software Engineering Concepts
+
+# 🏆 Achievements & Certifications
+
+🏅 **NPTEL IIT Kharagpur — Data Structures & Algorithms Using Java (Elite + Silver)**
+
+🏅 **Placed 1st in Quiz-A-Thon 5.0 at our College — Udaan Coding Club**
+
+🏅 **Java Developer Intern at HulkHire Technology**
+
+🏅 **Built Multiple Full Stack Projects using Spring Boot & React.js**
+
+🏅 **Hands-on Experience in Generative AI, AI Integration & Prompt Engineering**
+
+🏅 **Strong Problem Solving Skills in Java & DSA**
+
+🏅 **Developed Secure REST APIs using Spring Security & JWT Authentication**
+
+🏅 **Experience with Postman API Testing & Backend Development**
+
+🏅 **Built Real-Time Applications including AI Interview Platform & E-Commerce Systems**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
