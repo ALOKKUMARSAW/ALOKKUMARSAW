@@ -211,32 +211,6 @@ https://github.com/ALOKKUMARSAW
 
 ✅ Applied OOPs, DSA, MVC Architecture & Software Engineering Concepts
 
-# 🏆 Certifications & Achievements
-
-🏅 **Java Spring Framework, Spring Boot & Spring AI (Gen AI)** — Udemy
-
-🏅 **Java with DSA & System Design** — Physics Wallah
-
-🏅 **Data Structures and Algorithms Using Java (Elite + Silver)** — NPTEL, IIT Kharagpur
-
-🏅 **Placed 1st in Quiz-A-Thon 5.0 at our College** — Udaan Coding Club
-
-🏅 **Java Developer Intern** — HulkHire Technology
-
-🏅 **Built Multiple Full Stack Projects using Spring Boot & React.js**
-
-🏅 **Hands-on Experience in Generative AI, AI Integration & Prompt Engineering**
-
-🏅 **Strong Problem Solving Skills in Java & DSA**
-
-🏅 **Developed Secure REST APIs using Spring Security & JWT Authentication**
-
-🏅 **Experience with Postman API Testing & Backend Development**
-
-🏅 **Built Real-Time Applications including AI Interview Platform, Job Portal & E-Commerce Systems**
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aloksaw512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aloksaw512" height="30" width="40" /></a>
